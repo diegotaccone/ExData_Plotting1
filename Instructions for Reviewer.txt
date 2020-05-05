@@ -1,0 +1,12 @@
+Hi!
+
+Some help to review my work.
+
+1. I added the script for how the data is loaded into R and how the data is organized before plotting this script is called readpowerdatacode.r.
+
+2. You need to lead de dplyr package.
+
+3. There is a Script for each plot code and a 480x480 PNG file for each plot.
+
+4. Each code plots first in the graphic device, and later copies to a png file.
+
